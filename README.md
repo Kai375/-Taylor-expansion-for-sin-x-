@@ -1,6 +1,6 @@
 # Taylor expansion for sin(x)
 
-Made with C in linux ubuntu.
+Made in linux ubuntu.
 
 # Project description:
 
